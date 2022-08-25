@@ -8,7 +8,7 @@
 - Pyqt
 
 ### 🌱 I’m currently working on
-- Pokemon Image classifier
+- Spam message detecting system
 
 ### 📫 How to reach me:
 - [Instagram](https://www.instagram.com/callme.__sky/)
