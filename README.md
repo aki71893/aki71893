@@ -1,4 +1,21 @@
-### Hi there 👋
+## 👋 Hello there, I'm Akash Nair
+
+- I'm currently pursuing B.Tech in Computer Engineering
+- Improving my backend skills
+
+### 🔭 My working languages
+- Python
+- Pyqt
+
+### 🌱 I’m currently working on
+- Pokemon Image classifier
+
+### 📫 How to reach me:
+- [Instagram](https://www.instagram.com/callme.__sky/)
+- [Twitter](https://twitter.com/aki71893)
+
+### ⚡ Fun fact:
+I like singing and I play bass guitar ✨
 
 <!--
 **aki71893/aki71893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
