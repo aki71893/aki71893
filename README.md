@@ -14,6 +14,7 @@
 ### 📫 How to reach me:
 - [Instagram](https://www.instagram.com/callme.__sky/)
 - [Twitter](https://twitter.com/aki71893)
+- [LinkedIn](https://www.linkedin.com/in/akash-nair-51b04624b/)
 
 ### ⚡ Fun fact:
 I like singing and I play bass guitar ✨
