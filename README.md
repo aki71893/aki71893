@@ -6,6 +6,7 @@
 ### 🔭 My working languages
 - Python
 - Pyqt
+- Dart
 
 ### 🌱 I’m currently working on
 - Spam message detecting system
