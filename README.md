@@ -5,7 +5,8 @@
 
 ### 🔭 My working languages
 - Python
-- Pyqt
+- HTML & CSS
+- JavaScript 
 - Dart
 
 ### 🌱 I’m currently working on
